@@ -1,0 +1,5 @@
+python-telegram-bot==13.15
+ccxt==4.1.94
+pandas
+mplfinance
+apscheduler
