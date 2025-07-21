@@ -4,3 +4,4 @@ matplotlib
 apscheduler
 pandas
 six
+ccxt
